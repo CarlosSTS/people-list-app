@@ -1,5 +1,5 @@
 # peopleListApp
-um aplicativo criado com o Expo para listagem de pessoas usando a api do randomuser.me
+um aplicativo criado com o Expo para listagem de pessoas usando a api do [randomuser.me](https://randomuser.me/)
 
 ## módulos
 
