@@ -5,7 +5,7 @@ um aplicativo criado com o Expo para listagem de pessoas usando a api do randomu
 
 O app contém os seguintes módulos
 
-* Uma tela que gera dados de pessoas aleatórios buscados da api randomuser.me
+* Uma tela que gera dados de pessoas aleatórios buscados da api [randomuser.me](https://randomuser.me/)
 * Uma tela com os detalhes desse usuário
 * As telas também possuem rederização condicional para casos de erros.
 
