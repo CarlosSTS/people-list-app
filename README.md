@@ -10,19 +10,16 @@ O app contém os seguintes módulos
 * As telas também possuem rederização condicional para casos de erros.
 
 ## páginas
-![Foto do App](https://github.com/CarlosSTS/peopleListApp/blob/master/gifProject.gif)
-![Foto do App](https://github.com/CarlosSTS/peopleListApp/blob/master/imageProject.jpg)
+![Foto do App dashboard](https://github.com/CarlosSTS/peopleListApp/blob/master/assets/dashboard.png)
+![Foto do App detalhe](https://github.com/CarlosSTS/peopleListApp/blob/master/assets/detail.png)
+![Foto do App sair](https://github.com/CarlosSTS/peopleListApp/blob/master/assets/logout.png)
 
 ## Testando
 RODANDO O PROJETO
 * yarn install=>  para instalar as  Dependências do projeto
 * yarn start => para inicializar o projeto
 * yarn android => para executar o projeto no emulador android
-**(NECESSÁRIO EMULADOR ABERTO)**
 * yarn ios => Para executar no emulador iOS
-**(NÃO NECESSITA DO EMULADOR ABERTO)**
-
-****
 
 ## Feito por
 
